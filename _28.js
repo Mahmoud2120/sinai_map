@@ -1,0 +1,1 @@
+var json__28 = {"type":"FeatureCollection","name":"_28","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة القسيمة"},"geometry":{"type":"Point","coordinates":[34.171292568000069,30.498185807000027]}}]}
