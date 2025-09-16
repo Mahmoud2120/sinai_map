@@ -1,0 +1,1 @@
+var json__30 = {"type":"FeatureCollection","name":"_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة رفح"},"geometry":{"type":"Point","coordinates":[34.211765522537789,31.256537343544842]}}]}

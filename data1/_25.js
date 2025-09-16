@@ -1,0 +1,1 @@
+var json__25 = {"type":"FeatureCollection","name":"_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"مطار العريش الدولى"},"geometry":{"type":"Point","coordinates":[33.836727821000068,31.078428961000043]}}]}

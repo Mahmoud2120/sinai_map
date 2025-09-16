@@ -1,0 +1,1 @@
+var json__27 = {"type":"FeatureCollection","name":"_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة بئر العبد"},"geometry":{"type":"Point","coordinates":[33.168888300000049,30.819863500000054]}}]}
