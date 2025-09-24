@@ -1,0 +1,1 @@
+var json__29 = {"type":"FeatureCollection","name":"_29","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة الشيخ زويد"},"geometry":{"type":"Point","coordinates":[34.099003059738237,30.891189525820803]}}]}

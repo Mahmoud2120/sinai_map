@@ -1,0 +1,1 @@
+var json__31 = {"type":"FeatureCollection","name":"_31","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة رابع العريش"},"geometry":{"type":"Point","coordinates":[33.638604827000052,31.072030101000053]}}]}

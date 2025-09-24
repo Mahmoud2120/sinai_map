@@ -1,0 +1,1 @@
+var json__32 = {"type":"FeatureCollection","name":"_32","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم ثالث العريش"},"geometry":{"type":"Point","coordinates":[33.849774547000038,31.081906999000068]}}]}

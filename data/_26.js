@@ -1,0 +1,1 @@
+var json__26 = {"type":"FeatureCollection","name":"_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"قسم شرطة رمانة"},"geometry":{"type":"Point","coordinates":[32.76475460000006,30.987955500000055]}}]}
